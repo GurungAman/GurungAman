@@ -4,9 +4,8 @@
 
 <img align="right" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="45%"/>
 
-- Learning something new eveyday
 - 📫 Find me at [**amangurung.com**](http://amangurung.com/)
-
+- Currently Learning about some Docker stuff.
 
 
 ### My Tech stack:
