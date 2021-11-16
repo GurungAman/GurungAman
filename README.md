@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" width="45%"/>
 
 - 📫 Find me at [**amangurung.com**](http://amangurung.com/)
-- Currently Learning about CI/CD stuffs.
+- Currently Learning about React.js and stuffs.
 
 
 ### My Tech stack:
